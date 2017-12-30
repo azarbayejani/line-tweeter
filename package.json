@@ -1,0 +1,16 @@
+{
+  "name": "line-tweeter",
+  "version": "1.0.0",
+  "description": "tweets the first line of a file and then deletes that line",
+  "main": "index.js",
+  "dependencies": {
+    "twitter": "^1.7.1",
+    "firstline": "^1.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
